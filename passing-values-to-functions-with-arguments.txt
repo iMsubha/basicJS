@@ -1,0 +1,7 @@
+function functionWithArgs(param1, param2) {
+  var param = param1 + param2;
+  console.log(param);
+}
+
+functionWithArgs(1,2);
+functionWithArgs(7,9);
